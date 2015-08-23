@@ -19,7 +19,7 @@ Stake : Annual Reward : 365%
 Coin Mature 10 Blocks ~ 5 Minutes
 
 
-0		x       ~    9409800
+Premine		x       ~    9409800
 
 1-120		x   100 ~     12 000
 
