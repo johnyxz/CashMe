@@ -19,7 +19,7 @@ Stake : Annual Reward : 365%
 Coin Mature 10 Blocks ~ 5 Minutes
 
 
-Premine		x       ~    9409800
+Premine		x       ~ 18 819 600
 
 1-120		x   100 ~     12 000
 
@@ -43,7 +43,7 @@ Last PoW Block 20160
 
 PoW Block Reward  62732000
 
-Premine 15 %       9409800
+Premine 30 %      18819600
 
 Total Coin Supply 72141800
 
